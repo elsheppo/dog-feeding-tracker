@@ -1,0 +1,1 @@
+{"type":"object","properties":{"name":{"type":"string","description":"Name of the dog"},"breed":{"type":"string","description":"Breed of the dog"},"feedingTimes":{"type":"array","items":{"type":"string"},"description":"Regular feeding times"},"portionSize":{"type":"string","description":"Amount of food per meal"}},"required":["name","feedingTimes","portionSize"]}
